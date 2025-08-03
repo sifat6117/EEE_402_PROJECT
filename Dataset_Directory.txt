@@ -1,0 +1,19 @@
+We used the Figshare Brain Tumor Dataset, containing
+3,064 T1-weighted contrast-enhanced MRI slices from 233
+patients across three tumor types: meningioma (708), glioma
+(1,426), and pituitary (930).
+
+TABLE I
+THE 80–20% TRAIN–TEST SPLIT SUMMARY
+Classes     Training    Testing
+Meningioma    566         142
+Pituitary     744         186
+Glioma       1140         286
+Total        2450         614
+
+
+
+
+
+
+Dataset directory link: " https://buetedu-my.sharepoint.com/:f:/g/personal/2006117_eee_buet_ac_bd/EumvCm8w6ClGub82zwxQlSwBxzpEq3R1cLDNN7Fuv40axA?e=Muf08L  "
