@@ -23,7 +23,11 @@ A short brief on our Project:
 > * `README.md` installation, usage instructions, and detailed architecture diagram
 >
 > Group 5 (G1), EEE 402 AI & ML Laboratory, BUET
+>
 > Group Members(according to IDs):
-> Md. Woahidur Rahman         ID: 2006102
-> Shahriar Rashid Khan Sifat  ID: 2006117
-> Tanvir Arafat Fahim         ID: 2006118
+>
+> Md. Woahidur Rahman           ID: 2006102
+>
+> Shahriar Rashid Khan Sifat    ID: 2006117
+>
+> Tanvir Arafat Fahim           ID: 2006118
